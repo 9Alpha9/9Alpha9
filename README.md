@@ -11,7 +11,6 @@
 
 - 🏢 I'm currently **Freelances**
 - ⚙️ I use daily:  `.html`, `.js`, `.css`, `.sass`, `.svg`, `.psd`, `.react`, `.tailwindcss`, `.bootstrap`
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/joeyojoo](https://www.instagram.com/joeyojoo_/)
