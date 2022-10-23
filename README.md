@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
-
+#### I'm a  Freelances Frontend Developer and UI/UX Designer based on Surabaya, Indonesia. Not only code, I can editing a Photo, Video, and Design like a Poster and Feed for instagram / ❤️ minimalistic photo and design.
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- 💻 Frontend Developer and UI/UX Designer [@Bubbbleee Projects](https://www.instagram.com/bubbblee.projects/);
+- ❤️ Follow me on [LinkedIn](https://www.linkedin.com/in/gilang-ramadhan-9544851aa/) / see my design on [Behance](https://www.behance.net/gilangalfii);
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🏢 I'm currently **Freelances**
+- ⚙️ I use daily:  `.html`, `.js`, `.css`, `.sass`, `.svg`, `.psd`, `.react`, `.tailwindcss`, `.bootstrap`
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 💬 Ping me about **design**, **development**, **design thinking**
+- 📫 Reach me: [instagram.com/joeyojoo](https://www.instagram.com/joeyojoo_/)
+- ⚡️ Fun fact: I'm always listening lofi music for code.
