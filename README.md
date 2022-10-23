@@ -14,5 +14,5 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **development**, **design thinking**
 - 📫 Reach me: [instagram.com/joeyojoo](https://www.instagram.com/joeyojoo_/)
-- ⚡️ Fun fact: I'm always listening lofi music for code.
+- ⚡️ Fun fact: I'm always listening **lofi** music for code.
 
