@@ -13,6 +13,6 @@
 - ⚙️ I use daily:  `.html`, `.js`, `.css`, `.sass`, `.svg`, `.psd`, `.react`, `.tailwindcss`, `.bootstrap`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **development**, **design thinking**
-- 📫 Reach me: [instagram.com/joeyojoo](https://www.instagram.com/joeyojoo_/)
+- 📫 Reach me: On [Instagram.com](https://www.instagram.com/joeyojoo_/)
 - ⚡️ Fun fact: I'm always listening **lofi** music for code.
 
