@@ -3,7 +3,7 @@
 #### I'm a  Freelances Frontend Developer and UI/UX Designer based on Surabaya, Indonesia. Not only code, I can editing a Photo, Video, and Design like a Poster and Feed for instagram / ❤️ minimalistic photo and design.
 ##### NOW
 
-- 💻 Frontend Developer and UI/UX Designer [@Bubbbleee Projects](https://www.instagram.com/bubbblee.projects/);
+- 💻 Frontend Developer and UI/UX Designer [@Bagian Projects](https://www.instagram.com/bagiane.projects/);
 - ❤️ Follow me on [LinkedIn](https://www.linkedin.com/in/gilang-ramadhan-9544851aa/) / see my design on [Behance](https://www.behance.net/gilangalfii);
 
 ##### BIO
