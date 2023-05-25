@@ -4,8 +4,8 @@
 #### I'm a  Freelances Frontend Developer and UI/UX Designer based on Surabaya, Indonesia. Not only code, I can editing a Photo, Video, and Design like a Poster and Feed for instagram / ❤️ minimalistic photo and design.
 ##### NOW!
 
-- 💻 Frontend Developer and UI/UX Designer [@Joeyojoo_](https://www.instagram.com/joeyojoo_/);
-- ❤️ Follow me on [LinkedIn](https://www.linkedin.com/in/gilang-ramadhan-9544851aa/) / see my design on [Behance](https://www.behance.net/gilangalfii);
+- 💻 Frontend Developer and UI/UX Designer @Bagian
+- ❤️ Follow me on [LinkedIn](https://www.linkedin.com/in/gilang-ramadhan-9544851aa/) / see my design on [Behance](https://www.behance.net/gilangalfii)
 
 ##### BIO
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=9Alpha9&theme=dark&show_icons=true">](https://metrics.lecoq.io/9Alpha9)
