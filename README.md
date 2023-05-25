@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+![github Bagian Logo Png](https://github.com/9Alpha9/9Alpha9/assets/45790050/46ad1c87-9d84-4ff5-b44b-1f43d06a9acc)
 #### I'm a  Freelances Frontend Developer and UI/UX Designer based on Surabaya, Indonesia. Not only code, I can editing a Photo, Video, and Design like a Poster and Feed for instagram / ❤️ minimalistic photo and design.
 ##### NOW!
 
-![github Bagian Logo Png](https://github.com/9Alpha9/9Alpha9/assets/45790050/9e707c2e-b93a-43fd-8c61-024ce8450056)
 
 
 - 💻 Frontend Developer and UI/UX Designer [@Bagian Projects](https://www.instagram.com/bagiane.projects/);
