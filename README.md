@@ -1,6 +1,6 @@
-### Hi there 👋
-![bg](https://github.com/9Alpha9/9Alpha9/assets/45790050/439e3e81-6ea2-480a-9685-3a233c26f9f4)
 
+![bg](https://github.com/9Alpha9/9Alpha9/assets/45790050/439e3e81-6ea2-480a-9685-3a233c26f9f4)
+### Hi there 👋
 #### I'm a  Freelances Frontend Developer and UI/UX Designer based on Surabaya, Indonesia. Not only code, I can editing a Photo, Video, and Design like a Poster and Feed for instagram / ❤️ minimalistic photo and design.
 ##### NOW!
 
