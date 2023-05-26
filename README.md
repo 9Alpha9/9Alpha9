@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9alpha9&label=Profile%20views&color=0e75b6&style=flat" alt="9alpha9" /> </p>
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=9alpha9&" alt="9alpha9" /></p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9alpha9&theme=darkhub&row=2&column=9&no-bg=true&no-frame=true&margin-w=25" alt="9alpha9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9alpha9&theme=darkhub&row=1&column=4&no-bg=true&no-frame=true&margin-w=25" alt="9alpha9" /></a> </p>
 
 
 
