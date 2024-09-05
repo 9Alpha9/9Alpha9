@@ -6,7 +6,7 @@
 
 - 💻 Frontend Developer and UI/UX Designer [@Bagian](https://github.com/bagian)
 - ❤️ Follow me on [LinkedIn](https://www.linkedin.com/in/gilang-ramadhan-9544851aa/) / see my design on [Behance](https://www.behance.net/gilangalfii)
-- 📢 Visit my projects on [My Portfolio](https://www.gilangportofolio.vercel.app)
+- 📢 Visit my projects on [My Portfolio](https://www.gilang.bagian.net)
 
 ##### BIO
 [<img align="right" width="50%"  src="https://github-readme-stats-ouuan.vercel.app/api?username=9Alpha9&theme=dark&show_icons=true">](https://metrics.lecoq.io/9Alpha9)
